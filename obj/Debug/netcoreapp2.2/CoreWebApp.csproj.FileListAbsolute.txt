@@ -1,0 +1,109 @@
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreApp.Data.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreApp.Domain.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.csprojAssemblyReference.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorAssemblyInfo.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorAssemblyInfo.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.AssemblyInfoInputs.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.AssemblyInfo.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.TagHelpers.input.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.TagHelpers.output.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorCoreGenerate.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.deps.json
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.runtimeconfig.json
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.runtimeconfig.dev.json
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.Views.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.Views.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreApp.Data.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\bin\Debug\netcoreapp2.2\CoreApp.Domain.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.Views.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.csproj.CopyComplete
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Create.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Delete.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Details.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Edit.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Index.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Samurais\Create.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Samurais\Delete.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Samurais\Details.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Samurais\Edit.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Samurais\Index.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorAssemblyInfo.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorAssemblyInfo.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.AssemblyInfoInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.AssemblyInfo.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.TagHelpers.input.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.TagHelpers.output.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorCoreGenerate.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Areas\Promo\Views\Home\Index.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Areas\Promo\Views\_ViewImports.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AddNewRole.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AddUser.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AddUserToRole.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\DeleteUserFromRole.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditRole.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditUser.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ManageClaimsForUser.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\RoleManagement.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Admin\UserManagement.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieGift\Index.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieGift\PieGiftOrderComplete.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieManagement\AddPie.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieManagement\BulkEditPies.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieManagement\DeletePie.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieManagement\EditPie.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieManagement\Index.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\PieManagement\QuickEdit.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Pie\Details.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Pie\List.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Pie\PieNotFound.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\AdminMenu\Default.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\SystemStatusPage\Default.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\LanguageSelection.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\LoginPartial.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PieOfTheWeekSummary.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PieOverviewSummary.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.csprojAssemblyReference.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.deps.json
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.runtimeconfig.json
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.runtimeconfig.dev.json
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.Views.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\bin\Debug\netcoreapp2.2\CoreWebApp.Views.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.Views.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\CoreAppDemo-master\CoreAppDemo-master\CoreWebApp\obj\Debug\netcoreapp2.2\CoreWebApp.csproj.CopyComplete
